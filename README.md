@@ -8,9 +8,9 @@ I currently live in **Brescia**, primarly developing in VB.NET, JS, PHP and SQL.
 
 ## ✨ Current situation
 
-- 🔭 I’m currently working as Fullstack Developer at HarnekInfo (Italy)
+- 🔭 I’m currently working as Fullstack Developer at HarnekInfo S.r.l (Italy)
 - 🌱 I’m currently learning Ionic, Typescript, Angular
-- 📸🏋🏻‍♂️ I have a great passion for photography and for sport, especially for the gym!
+- 📸🏋🏻‍♂️ I have a great passion for photography and for sport, especially for the body building and calisthenics!
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
@@ -27,7 +27,11 @@ I currently live in **Brescia**, primarly developing in VB.NET, JS, PHP and SQL.
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/angular-d82d2f?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/chakra--ui-38B2AC?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
